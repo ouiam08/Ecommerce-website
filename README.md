@@ -3,7 +3,7 @@
 <h3> Blib :  BOOK SHOP</h3>
 
 
-<h4>OOP PHP, MVC, HTML, CSS, JavaScript, Bootstrap, MySQL, WampServer</h4>
+<h4>OOP PHP, MVC, HTML, CSS, JavaScript, Bootstrap, MySQL, Ajax ,WampServer</h4>
 Back-end: OOP PHP and MySQL for the database <br />
 Front-end: CSS, Bootstrap and JavaScript <br />
 Design pattern: MVC <br />
@@ -18,6 +18,7 @@ Cart realized using sessions <br />
   <li>Showing total price depending on the quantity off the chosen product;<br /></li>
   <li>Adding products to the cart using sessions;<br /></li>
   <li>Displaying all products in the cart with total price;<br /></li>
+  <li>Adding the quantity of products on the cart using ajax;<br /></li>
   <li>Removing products from the cart;<br /></li>
   <li>Adding products to the wishlist using sessions;<br /></li>
   <li>Removing products from the wishlist;<br /></li>
@@ -37,4 +38,5 @@ Cart realized using sessions <br />
   <li>Pagination system;<br /></li>
   <li>Administrators can add and remove products;<br /></li>
   <li>Payement system;<br /></li>
+  <li>All the crud on administrator side is made using Ajax;<br /></li>
 </ul>
